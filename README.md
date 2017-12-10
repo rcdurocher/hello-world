@@ -1,2 +1,2 @@
 # hello-world
-The starting point for my journey into the world of programming Algorithmic Trading EAs.
+This is the starting point for my journey, into the world of programming Algorithmic Trading EAs.
